@@ -1,5 +1,11 @@
-# sybil-list 
+# HAO-list 
+Originally forked from Uniswap Sybil-list.
 This repo contains a list of verified mappings that link Ethereum addresses with social profiles (Twitter supported currently). 
+
+
+
+# Original Documentation
+
 
 - JSON List: [verified.json](./verified.json)
 - Sybil interface for governance: [https://sybil.org](https://sybil-interface.vercel.app/#/delegates/uniswap)
